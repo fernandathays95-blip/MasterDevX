@@ -14,7 +14,11 @@ git clone https://github.com/fernandathays95-blip/MasterDevX.git
 cd MasterDevX
 chmod +x install.sh
 ./install.sh 
+
+
+
 Se não existir o arquivo install.sh, basta entrar no diretório da ferramenta e rodar manualmente:
+
 bash
 bash toolkit.sh 
 
