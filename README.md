@@ -8,25 +8,25 @@ Ferramenta criada para técnicos que usam **Termux**, feita para automatizar tar
 
 No Termux, copie e execute os comandos:
 
-```bash
+bash
 pkg install git -y
 git clone https://github.com/fernandathays95-blip/MasterDevX.git
 cd MasterDevX
 chmod +x install.sh
-./install.sh ```
+./install.sh 
 Se não existir o arquivo install.sh, basta entrar no diretório da ferramenta e rodar manualmente:
-```bash
-bash toolkit.sh ```
+bash
+bash toolkit.sh 
 
 ##🚀 Uso
 
 Após a instalação, inicie com:
-```bash
-bash masterdevx.sh ```
+bash
+bash masterdevx.sh 
 
 ou, se estiver configurado como comando global:
-```bash
-masterdev ```
+bash
+masterdev
 
 A ferramenta exibirá o menu principal com as opções técnicas disponíveis, como:
 	•	Diagnóstico do sistema
