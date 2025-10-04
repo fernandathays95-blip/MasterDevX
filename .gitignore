@@ -1,0 +1,25 @@
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Pastas temporárias
+tmp/
+cache/
+logs/
+
+# Arquivos locais
+.env
+config.local
+*.zip
+*.tar.gz
+
+# Diretórios de dependência
+node_modules/
+venv/
+__pycache__/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
